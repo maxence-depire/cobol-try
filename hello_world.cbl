@@ -1,4 +1,4 @@
-    *>    Compile with the command : cobc -x <scirpt.name.cbl>
+       *>    Compile with the command : cobc -x <scirpt.name.cbl>
        
        identification division.
        program-id. hello_world.
