@@ -8,7 +8,7 @@
        procedure division.
        
            initialize choice.
-           move 3 to choice.
+           move 7 to choice.
 
            evaluate choice
             when 1
@@ -16,7 +16,11 @@
             when 2
             display 2  
             when 3
-            display 3                                              
+            display 3      
+
+            when other
+            display "don't know"
+
            end-evaluate.
 
        stop run.
