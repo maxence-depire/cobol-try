@@ -21,7 +21,7 @@
            move 04 to coef.
 
            if bien or parfait then                                   
-               display 'C est une bonne note ça'
+               display "C est une bonne note ça"
            end-if.         
 
            if coef > 2 then
