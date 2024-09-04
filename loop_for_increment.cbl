@@ -13,4 +13,12 @@
                display a
            end-perform.
 
+           perform test before varying a from 1 by 1 until a > 10
+               display a
+           end-perform.
+
+           perform test after varying a from 1 by 1 until a > 10
+               display a
+           end-perform.
+
        stop run.
