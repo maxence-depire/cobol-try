@@ -13,7 +13,7 @@
            
        initialize n. 
 
-       perform varying n from 1 by 1 until n > 9    
+       perform varying n from 1 by 1 until n > 9     
            move n to entier(n)                                             
            display entier(n)                                           
        end-perform.                                                   
