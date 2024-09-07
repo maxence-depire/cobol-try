@@ -11,7 +11,7 @@
 
        1 show_value_1.
            2 line line_index col 1 'value_1 = '.                                
-           2 pic 99 from value_1.                                          
+           2 pic 99 from value_1.                                              
 
        procedure division.
 
